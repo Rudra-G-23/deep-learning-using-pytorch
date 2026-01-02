@@ -4,7 +4,8 @@
 | -------- | ----------- | ------------ |
 | PyTroch for Beginners | [🗺️](https://github.com/Rudra-G-23/AI-Engineering-Resources/tree/main/PyTorch) | [🧑‍🏫](https://youtu.be/QZsguRbcOBM?si=xS9S0YBpN4AtVNiA) |
 | Tensor in PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/tensors-in-pytorch/) | [🧑‍🏫](https://youtu.be/mDsFsnw3SK4?si=7UXsevk1lyPfcM9B)|
-
+|PyTorch Autograd | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-autograd/) | [🧑‍🏫](https://youtu.be/BECZ0UB5AR0?si=fnEYItyybv5nky2y) |
+|PyTorch Training Pipeline | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/simple-pytorch-training-pipeline/) | [🧑‍🏫](https://youtu.be/MKxEbbKpL5Q?si=xrUovfzRyXfvmM8E) |
 
 ---
 
