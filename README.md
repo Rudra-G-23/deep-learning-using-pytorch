@@ -8,9 +8,14 @@
 | 04 |PyTorch Training Pipeline | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/simple-pytorch-training-pipeline/) | [🧑‍🏫](https://youtu.be/MKxEbbKpL5Q?si=xrUovfzRyXfvmM8E) |
 | 05 | PyTorch NN Module | [1📒](https://www.kaggle.com/code/rudraprasadbhuyan/simple-pytorch-nn-module?scriptVersionId=289809301), [2📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-training-pipeline-using-nn-module?scriptVersionId=289814480) | [🧑‍🏫](https://youtu.be/CAgWNxlmYsc?si=INKJ8VcdQgcYwxAe) |
 |06 |Dataset & DataLoader Class | [1📒](https://www.kaggle.com/code/rudraprasadbhuyan/dataset-and-dataloader-class-in-pytorch), [2📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-training-pipeline-using-dataset-dataloader/) | [🧑‍🏫](https://youtu.be/RH6DeE3bY6I?si=ac6IsukunPNN_dC9) |
-
-
----
+| 07 | ANN using PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch) | [🧑‍🏫](https://youtu.be/6EJaHBJhwDs?si=77w3QVjd2qRTgd3I) |
+| 08 | Trining on GPU | [📒] | [🧑‍🏫](https://youtu.be/CabHrf9eOVs?si=1jETgquzn5gl8Srs) |
+| 09 |  | [📒] | [🧑‍🏫] |
+| 10 |  | [📒] | [🧑‍🏫] |
+| 11 |  | [📒] | [🧑‍🏫] |
+| 12 |  | [📒] | [🧑‍🏫] |
+| 13 |  | [📒] | [🧑‍🏫] |
+| 14 |  | [📒] | [🧑‍🏫] |
 
 ## 🧑‍💻 Author
 

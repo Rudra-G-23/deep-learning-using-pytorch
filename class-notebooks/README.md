@@ -14,3 +14,4 @@
 6. PyTorch Dataset & DataLoader 
    - [Demo](../class-notebooks/dataset-and-dataloader-class-in-pytorch.ipynb)
    - [Training Pipeline Improvement](../class-notebooks/pytorch-training-pipeline-using-dataset-dataloader.ipynb)
+7. [ANN Fashion MINST PyTorch](../class-notebooks/ann-fashion-mnist-pytorch.ipynb)
