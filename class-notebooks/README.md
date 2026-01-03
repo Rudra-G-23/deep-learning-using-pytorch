@@ -16,3 +16,4 @@
    - [Training Pipeline Improvement](../class-notebooks/pytorch-training-pipeline-using-dataset-dataloader.ipynb)
 7. [ANN Fashion MINST PyTorch](../class-notebooks/ann-fashion-mnist-pytorch.ipynb)
 8. [Training on GPU](../class-notebooks/ann-fashion-mnist-pytorch-training-on-gpu.ipynb)
+9. [Optimized the NN](../class-notebooks/ann-fashion-mnist-pytorch-gpu-optimized.ipynb)

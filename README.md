@@ -10,8 +10,8 @@
 |06 |Dataset & DataLoader Class | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/dataset-and-dataloader-class-in-pytorch)[📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-training-pipeline-using-dataset-dataloader/) | [🧑‍🏫](https://youtu.be/RH6DeE3bY6I?si=ac6IsukunPNN_dC9) |
 | 07 | ANN using PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch) | [🧑‍🏫](https://youtu.be/6EJaHBJhwDs?si=77w3QVjd2qRTgd3I) |
 | 08 | Trining on GPU | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch-training-on-gpu/) | [🧑‍🏫](https://youtu.be/CabHrf9eOVs?si=1jETgquzn5gl8Srs) |
-| 09 |  | [📒] | [🧑‍🏫] |
-| 10 |  | [📒] | [🧑‍🏫] |
+| 09 | Optimizing the Neural Network | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch-gpu-optimized/) | [🧑‍🏫](https://youtu.be/7smLlJ8oj4o?si=j6N8JIl1_RHwti-2) |
+| 10 |  | [📒]() | [🧑‍🏫] |
 | 11 |  | [📒] | [🧑‍🏫] |
 | 12 |  | [📒] | [🧑‍🏫] |
 | 13 |  | [📒] | [🧑‍🏫] |
