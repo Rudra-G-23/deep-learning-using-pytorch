@@ -6,7 +6,7 @@
 | Tensor in PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/tensors-in-pytorch/) | [🧑‍🏫](https://youtu.be/mDsFsnw3SK4?si=7UXsevk1lyPfcM9B)|
 |PyTorch Autograd | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-autograd/) | [🧑‍🏫](https://youtu.be/BECZ0UB5AR0?si=fnEYItyybv5nky2y) |
 |PyTorch Training Pipeline | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/simple-pytorch-training-pipeline/) | [🧑‍🏫](https://youtu.be/MKxEbbKpL5Q?si=xrUovfzRyXfvmM8E) |
-
+| PyTorch NN Module | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/simple-pytorch-nn-module?scriptVersionId=289809301)[📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-training-pipeline-using-nn-module?scriptVersionId=289814480) | [🧑‍🏫](https://youtu.be/CAgWNxlmYsc?si=INKJ8VcdQgcYwxAe) |
 ---
 
 ## 🧑‍💻 Author
