@@ -1,12 +1,15 @@
-# Deep Learning using PyTroch 
+# Deep Learning using PyTorch 
 
-| Topic | My Notebook | Lectures |
-| -------- | ----------- | ------------ |
-| PyTroch for Beginners | [🗺️](https://github.com/Rudra-G-23/AI-Engineering-Resources/tree/main/PyTorch) | [🧑‍🏫](https://youtu.be/QZsguRbcOBM?si=xS9S0YBpN4AtVNiA) |
-| Tensor in PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/tensors-in-pytorch/) | [🧑‍🏫](https://youtu.be/mDsFsnw3SK4?si=7UXsevk1lyPfcM9B)|
-|PyTorch Autograd | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-autograd/) | [🧑‍🏫](https://youtu.be/BECZ0UB5AR0?si=fnEYItyybv5nky2y) |
-|PyTorch Training Pipeline | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/simple-pytorch-training-pipeline/) | [🧑‍🏫](https://youtu.be/MKxEbbKpL5Q?si=xrUovfzRyXfvmM8E) |
-| PyTorch NN Module | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/simple-pytorch-nn-module?scriptVersionId=289809301)[📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-training-pipeline-using-nn-module?scriptVersionId=289814480) | [🧑‍🏫](https://youtu.be/CAgWNxlmYsc?si=INKJ8VcdQgcYwxAe) |
+|No | Topic | My Notebook | Lectures |
+|---| -------- | ----------- | ------------ |
+| 01 | PyTorch for Beginners | [🗺️](https://github.com/Rudra-G-23/AI-Engineering-Resources/tree/main/PyTorch) | [🧑‍🏫](https://youtu.be/QZsguRbcOBM?si=xS9S0YBpN4AtVNiA) |
+| 02 | Tensor in PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/tensors-in-pytorch/) | [🧑‍🏫](https://youtu.be/mDsFsnw3SK4?si=7UXsevk1lyPfcM9B)|
+| 03 |PyTorch Autograd | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-autograd/) | [🧑‍🏫](https://youtu.be/BECZ0UB5AR0?si=fnEYItyybv5nky2y) |
+| 04 |PyTorch Training Pipeline | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/simple-pytorch-training-pipeline/) | [🧑‍🏫](https://youtu.be/MKxEbbKpL5Q?si=xrUovfzRyXfvmM8E) |
+| 05 | PyTorch NN Module | [1📒](https://www.kaggle.com/code/rudraprasadbhuyan/simple-pytorch-nn-module?scriptVersionId=289809301), [2📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-training-pipeline-using-nn-module?scriptVersionId=289814480) | [🧑‍🏫](https://youtu.be/CAgWNxlmYsc?si=INKJ8VcdQgcYwxAe) |
+|06 |Dataset & DataLoader Class | [1📒](https://www.kaggle.com/code/rudraprasadbhuyan/dataset-and-dataloader-class-in-pytorch), [2📒](https://www.kaggle.com/code/rudraprasadbhuyan/pytorch-training-pipeline-using-dataset-dataloader/) | [🧑‍🏫](https://youtu.be/RH6DeE3bY6I?si=ac6IsukunPNN_dC9) |
+
+
 ---
 
 ## 🧑‍💻 Author

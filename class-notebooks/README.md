@@ -11,3 +11,6 @@
 5. PyTorch NN Module
    - [Simple PyTorch NN Module](../class-notebooks/simple-pytorch-nn-module.ipynb)
    - [Simple PyTroch Pipeline using NN Module](../class-notebooks/simple-pytorch-training-pipeline.ipynb)
+6. PyTorch Dataset & DataLoader 
+   - [Demo](../class-notebooks/dataset-and-dataloader-class-in-pytorch.ipynb)
+   - [Training Pipeline Improvement](../class-notebooks/pytorch-training-pipeline-using-dataset-dataloader.ipynb)
