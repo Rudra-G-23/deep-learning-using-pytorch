@@ -11,7 +11,7 @@
 | 07 | ANN using PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch) | [🧑‍🏫](https://youtu.be/6EJaHBJhwDs?si=77w3QVjd2qRTgd3I) |
 | 08 | Trining on GPU | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch-training-on-gpu/) | [🧑‍🏫](https://youtu.be/CabHrf9eOVs?si=1jETgquzn5gl8Srs) |
 | 09 | Optimizing the Neural Network | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch-gpu-optimized/) | [🧑‍🏫](https://youtu.be/7smLlJ8oj4o?si=j6N8JIl1_RHwti-2) |
-| 10 |  | [📒]() | [🧑‍🏫] |
+| 10 | Optuna X PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch-gpu-optimized-optuna/) | [🧑‍🏫](https://youtu.be/Y3s-wBBLj_o?si=sZVcZBWMyTZbSGM2) |
 | 11 |  | [📒] | [🧑‍🏫] |
 | 12 |  | [📒] | [🧑‍🏫] |
 | 13 |  | [📒] | [🧑‍🏫] |
