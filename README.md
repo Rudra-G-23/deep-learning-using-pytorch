@@ -12,10 +12,13 @@
 | 08 | Trining on GPU | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch-training-on-gpu/) | [🧑‍🏫](https://youtu.be/CabHrf9eOVs?si=1jETgquzn5gl8Srs) |
 | 09 | Optimizing the Neural Network | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch-gpu-optimized/) | [🧑‍🏫](https://youtu.be/7smLlJ8oj4o?si=j6N8JIl1_RHwti-2) |
 | 10 | Optuna X PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch-gpu-optimized-optuna/) | [🧑‍🏫](https://youtu.be/Y3s-wBBLj_o?si=sZVcZBWMyTZbSGM2) |
-| 11 |  | [📒] | [🧑‍🏫] |
-| 12 |  | [📒] | [🧑‍🏫] |
-| 13 |  | [📒] | [🧑‍🏫] |
+| 11 | CNN using PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/cnn-using-pytorch-fashion-mnist-gpu/) | [🧑‍🏫](https://youtu.be/hkiBZLRFvO4?si=pbJB9XAWJn2Tu3uM) |
+| 12 | Transfer Learning | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/transfer-learning-fashion-mnist-pytorch-gpu/) | [🧑‍🏫](https://youtu.be/hkiBZLRFvO4?si=B2SSffNEwdijajhk) |
+| 13 | RNN using PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/rnn-using-pytorch/) | [🧑‍🏫](https://youtu.be/xjzWrPQ66VQ?si=Ngoef4KL9CDM-4lk) |
 | 14 |  | [📒] | [🧑‍🏫] |
+
+11, 12 no notebook
+but i do 13 also change the kaggle notebook top table
 
 ## 🧑‍💻 Author
 

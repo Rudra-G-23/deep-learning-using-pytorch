@@ -18,3 +18,4 @@
 8. [Training on GPU](../class-notebooks/ann-fashion-mnist-pytorch-training-on-gpu.ipynb)
 9. [Optimized the NN](../class-notebooks/ann-fashion-mnist-pytorch-gpu-optimized.ipynb)
 10. [Optuna x Torch](../class-notebooks/ann-fashion-mnist-pytorch-gpu-optimized-optuna.ipynb)
+11. [CNN using the PyTorch](../class-notebooks/cnn-using-pytorch-fashion-mnist-gpu.ipynb)
