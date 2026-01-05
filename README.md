@@ -13,12 +13,9 @@
 | 09 | Optimizing the Neural Network | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch-gpu-optimized/) | [🧑‍🏫](https://youtu.be/7smLlJ8oj4o?si=j6N8JIl1_RHwti-2) |
 | 10 | Optuna X PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/ann-fashion-mnist-pytorch-gpu-optimized-optuna/) | [🧑‍🏫](https://youtu.be/Y3s-wBBLj_o?si=sZVcZBWMyTZbSGM2) |
 | 11 | CNN using PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/cnn-using-pytorch-fashion-mnist-gpu/) | [🧑‍🏫](https://youtu.be/hkiBZLRFvO4?si=pbJB9XAWJn2Tu3uM) |
-| 12 | Transfer Learning | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/transfer-learning-fashion-mnist-pytorch-gpu/) | [🧑‍🏫](https://youtu.be/hkiBZLRFvO4?si=B2SSffNEwdijajhk) |
+| 12 | Transfer Learning  (vgg16) | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/transfer-learning-vgg16-fashion-mnist-pytorch-gpu/) | [🧑‍🏫](https://youtu.be/aPu6a5htRXM?si=dE9q1JCbTVw00M2Q) |
 | 13 | RNN using PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/rnn-using-pytorch/) | [🧑‍🏫](https://youtu.be/xjzWrPQ66VQ?si=Ngoef4KL9CDM-4lk) |
-| 14 |  | [📒] | [🧑‍🏫] |
-
-11, 12 no notebook
-but i do 13 also change the kaggle notebook top table
+| 14 | LSTM using PyTorch | [📒](https://www.kaggle.com/code/rudraprasadbhuyan/lstm-using-pytorch-next-word-predictor/edit) | [🧑‍🏫](https://youtu.be/FAUha5mYSGQ?si=t-JFHRlUtGeFOwwb) |
 
 ## 🧑‍💻 Author
 

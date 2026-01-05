@@ -1,7 +1,7 @@
 # Class Notebooks
-> 📂 Notebooks which are included on the folder.
-> .
-> 🎓 Lectures: [CampusX: Practical Deep Learning using PyTorch ](https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=kSPKLFyn9FavAFYd)
+> - 📂 Notebooks which are included on the folder.
+> 
+> - 🎓 Lectures: [CampusX: Practical Deep Learning using PyTorch ](https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=kSPKLFyn9FavAFYd)
 
 
 1. PyTroch for beginners
@@ -19,3 +19,6 @@
 9. [Optimized the NN](../class-notebooks/ann-fashion-mnist-pytorch-gpu-optimized.ipynb)
 10. [Optuna x Torch](../class-notebooks/ann-fashion-mnist-pytorch-gpu-optimized-optuna.ipynb)
 11. [CNN using the PyTorch](../class-notebooks/cnn-using-pytorch-fashion-mnist-gpu.ipynb)
+12. [Transfer Learning (vgg16)](../class-notebooks/transfer-learning-vgg16-fashion-mnist-pytorch-gpu.ipynb)
+13. [RNN using PyTorch](../class-notebooks/rnn-using-pytorch.ipynb)
+14. [LSTM using PyTorch](../class-notebooks/lstm-using-pytorch-next-word-predictor.ipynb)
