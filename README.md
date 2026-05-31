@@ -1,11 +1,15 @@
 # Deep Learning using PyTorch [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Rudra-G-23/deep-learning-using-pytorch)
 
+<<<<<<< HEAD
 
 ---
 
 
 ## Kaggle Notebooks
 
+=======
+---
+>>>>>>> 18ab919f269898f7f9c9f6cb984173c7f9096617
 
 |No | Topic | My Notebook | Lectures |
 |---| -------- | ----------- | ------------ |
